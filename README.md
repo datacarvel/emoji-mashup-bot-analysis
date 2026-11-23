@@ -1,5 +1,5 @@
 # emoji-mashup-bot-analysis
-<a href="https://bsky.app/profile/emojimashupbot.bsky.social">The Emoji Mashup Bot</a> posts every 2 hours. Which emojis give the best and funniest mashups, as per likes and reposts?
+<a href="https://bsky.app/profile/emojimashupbot.bsky.social" target="_blank">The Emoji Mashup Bot</a> posts every 2 hours. Which emojis give the best and funniest mashups, as per likes and reposts?
 
 The analysis is based on approximately 6,000 posts by the bot, from its creation up to April 2026.
 
